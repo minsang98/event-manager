@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.5.0",
+  "name": "archeage-event-manager",
+  "version": "0.0.1",
   "description": "A foundation for scalable desktop apps",
   "main": "./dist/main/main.js",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "munchking98",
+    "email": "blood89@nate.com",
+    "url": "https://github.com/munchking98/event-manager"
   },
   "scripts": {
     "electron-rebuild": "node -r ts-node/register ../../.erb/scripts/electron-rebuild.js",

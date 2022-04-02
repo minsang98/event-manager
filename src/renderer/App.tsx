@@ -17,7 +17,7 @@ const Hello = () => {
         >
           <button type="button">
             <span role="img" aria-label="books">
-              📚
+              📚3
             </span>
             Read our docs
           </button>
